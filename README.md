@@ -1,7 +1,7 @@
 # EGAppleBot
 minecraft bot for pika server to get EGApple
 
-install requirements:
+<h2> install requirements:</h2>
     install Node js
     run this command in package folder:
         npm install
