@@ -1,0 +1,38 @@
+{
+    "bot_info": {
+        "user_len":9,
+        "user_prefix": "",
+        "version": "1.16.5",
+        "host": "topa.pika.host",
+        "port":25565
+    },
+
+    "cell_name":"canibal",
+
+    "__comment1": "put position of Gapples Dispenser",
+    "g_apple_pos":{
+        "x":100520,
+        "y":66,
+        "z":22086
+    },
+
+    
+    "__comment2": "put position of trash Dispenser ( optional )",
+    "trash_pos":{
+        "x":100520,
+        "y":66,
+        "z":22084
+    },
+
+    "nummber_of_acc":1000,
+
+    "admins": ["MrMiM"],
+
+    "timeout":30,
+
+    "chatLog":false,
+    "errorLog":true,
+    "infoLog":true,
+    "userNameLog":true,
+    "on_done_log":false
+}
